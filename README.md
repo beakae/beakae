@@ -1,16 +1,29 @@
-## Hi there 👋
+### 🌱 About Me:
 
-<!--
-**beakae/beakae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```css
+#about-me {
+  company: "Capital One";
+  role: "Software Engineer Intern";
+  location: "Chicago, IL";
+  school: "University of Alabama, Tuscaloosa";
+  major: "Computer Science";
+  favorite: {
+    language: "Python";
+    book: "Meditations by Marcus Aurelius";
+    movie: "Into the Spider-Verse";
+    song: "Feel It by d4vd";
+    food: "Ice Cream";
+    game: "Minecraft";
+  };
+  learning: "Golang and Chessprogramming";
+}
+```
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Let's Connect!
+
+- [Portfolio](https://bkantorski.com)
+- [LinkedIn](https://www.linkedin.com/in/bkantorski/)
+
+Feel free to explore my repos and drop a star if something catches your eye! ⭐

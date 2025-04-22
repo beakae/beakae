@@ -2,7 +2,7 @@
 
 ```css
 #about-me {
-  company: "Capital One";
+  company: "";
   role: "Software Engineer Intern";
   location: "Chicago, IL";
   school: "University of Alabama, Tuscaloosa";
@@ -25,5 +25,3 @@
 
 - [Portfolio](https://bkantorski.com)
 - [LinkedIn](https://www.linkedin.com/in/bkantorski/)
-
-Feel free to explore my repos and drop a star if something catches your eye! ⭐

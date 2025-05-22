@@ -2,7 +2,7 @@
 
 ```css
 #about-me {
-  company: "";
+  company: "Square";
   role: "Software Engineer Intern";
   location: "Chicago, IL";
   school: "University of Alabama, Tuscaloosa";
@@ -21,7 +21,7 @@
 
 ---
 
-### 📫 Let's Connect!
+### 📫 Feel free to Connect!
 
 - [Portfolio](https://bkantorski.com)
 - [LinkedIn](https://www.linkedin.com/in/bkantorski/)
